@@ -40,11 +40,14 @@ A similar script for the webapi is included.
 **Docker**
 
   - Docker compose install:
-  ```pip install docker-compose
+  ```
+pip install docker-compose
   ```
   - Start:
-  ```docker-compose up
+  ```
+docker-compose up
   ```
   - Stop:
-  ```docker-compose stop
+  ```
+docker-compose stop
   ```
