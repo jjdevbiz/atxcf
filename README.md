@@ -36,3 +36,15 @@ A similar script for the webapi is included.
 
   [catx.io]: http://catx.io/
   [ATX Crypto Club]: http://atxcf.slack.com/
+
+**Docker**
+
+  - Docker compose install:
+  ```pip install docker-compose
+  ```
+  - Start:
+  ```docker-compose up
+  ```
+  - Stop:
+  ```docker-compose stop
+  ```

@@ -1,0 +1,6 @@
+atxcf:
+  build: .
+  ports:
+    - 8080:8080
+  environment:
+    - SLACK_TOKEN="abc123"
